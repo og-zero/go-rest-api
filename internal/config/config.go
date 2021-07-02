@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	defaultServerPort         = 8080
+	defaultServerPort         = 6969
 	defaultJWTExpirationHours = 72
 )
 
